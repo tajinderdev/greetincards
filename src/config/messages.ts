@@ -1,0 +1,8 @@
+export const SHOP_CREATED = "Shop Created Sucessfully."
+export const SHOP_UPDATED = "Shop Updated Sucessfully."
+export const ERROR_MESSAGE = "Something went wrong."
+export const STORE_CREATED = "Store Created Sucessfully."
+export const STORE_UPDATED = "Store Updated Sucessfully."
+export const DESIGNER_CREATED = "Store Created Sucessfully."
+export const DESIGNER_UPDATED = "Store Updated Sucessfully."
+export const PROFILE_UPDATED = "Profile Updated Sucessfully."

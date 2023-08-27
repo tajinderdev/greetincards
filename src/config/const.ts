@@ -1,0 +1,1 @@
+export const tosterTime = 3500;
